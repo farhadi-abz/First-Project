@@ -4,13 +4,12 @@ main {
 }
 
 .background{
-    background: url('../../images/Nasir-ol-Molk-Mosque.jpg');
+    background: url('../../images/Nasir-ol-Molk-Mosque.jpg') center/cover no-repeat;
+    filter: grayscale(60%) blur(1px); 
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
     position: fixed;
-    background-size: cover;
-    background-position: center;
     z-index: -1;
 }
 
