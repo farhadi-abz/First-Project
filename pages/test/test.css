@@ -1,0 +1,26 @@
+.testbox{
+    
+}
+
+.testbox__info{
+    display: inline-block;
+}
+
+.testbox__info h1{
+    font-size: 2em;
+}
+
+.imgtest{
+    vertical-align: middle;
+    display: inline-block;
+
+}
+img{
+    max-width: 400px;
+    width: 400px;
+    min-width: 100px;
+}
+
+#testdown{
+    text-align: right;
+}
